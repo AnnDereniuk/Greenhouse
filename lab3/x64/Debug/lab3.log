@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+  create.cpp
+  Создание кода...
+LINK : fatal error LNK1561: точка входа должна быть определена
